@@ -1,5 +1,10 @@
 # devsnap
 
+[![PyPI](https://img.shields.io/pypi/v/devsnap)](https://pypi.org/project/devsnap/)
+[![CI](https://github.com/gptfei/devsnap/actions/workflows/ci.yml/badge.svg)](https://github.com/gptfei/devsnap/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/pypi/pyversions/devsnap)](https://pypi.org/project/devsnap/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Snapshot and diff your development environment — end "works on my machine" debugging.**
 
 `devsnap` is a zero-dependency Python CLI that captures your OS, Python,
@@ -11,7 +16,7 @@ Diff two snapshots and see exactly what differs between two machines.
 ## Install
 
 ```bash
-pip install devsnap        # once published to PyPI
+pip install devsnap
 # or from source:
 pip install git+https://github.com/gptfei/devsnap
 ```
