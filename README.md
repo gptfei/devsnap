@@ -84,6 +84,11 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md), and look for issues labelled
 可以安全地贴进 issue 里。两份快照一 diff，“在我机器上能跑”的差异
 立刻现形。
 
+## See also
+
+- **[llmparse](https://github.com/gptfei/llmparse)** — parse the JSON
+  your LLM meant to send: extraction and repair for raw LLM output.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
